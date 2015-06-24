@@ -1,0 +1,33 @@
+[Account]
+account_id = 86
+
+[Task Queue]
+tqname = usergroup
+error_tqname = 9999
+tasknum = 1
+search_tags = ["type=1"]
+error_search_tags = ["status=9999","priority=9999"
+
+[Params]
+EventId=148
+EventIdOther=39
+MACAddress=System.Byte[]
+EventTime=Date(1368076195887)
+EventType=MDMEnrollmentComplete
+ConplianceStatus=Compliant
+Udid=
+SerialNumber=861348SXA4S
+CompromisedStatus=
+EnrollmentEmailAddress=hdu@websense.com
+DeviceFriendlyName=iPhone3,1-42a65c8289b7ddbcc8ab0fd342bb237534ba60c9
+PhoneNumber=18210295352
+DeviceId=616
+EnrollmentStatus=Enrolled
+EnrollmentUserName=Hang
+CompromisedTimeStamp=Date(1368076202626)
+
+[Connection]
+Host=127.0.0.1
+Port=443
+Username=None
+Password=None
